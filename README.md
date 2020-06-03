@@ -1,7 +1,6 @@
-# FIFA-ML-Predictor
-
 ## Intro
 
+First Data Science Project, will put my notes here as I go
 Reference: [My Python Notes](https://github.com/SSaquif/Python-Notebook)
 
 ## Notes on ML
